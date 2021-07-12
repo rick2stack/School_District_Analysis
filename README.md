@@ -10,7 +10,7 @@ Once the Thomas High School ninth graders scores were updated with "nan" placeho
 1. The more direct result of the updated scores were the % passing of reading and math for the school grades of Thomas High Schoool. 
     1. Thomas High School Updated Overall Passing vs. Original Overall Passing 
     Updated Overall Passing 
-    ![Updated OverallPassing Thomas](https://github.com/rick2stack/School_District_Analysis/blob/main/resources/Updated%20Overall%20Passing%20Thomas).
+    ![Updated OverallPassing Thomas](https://github.com/rick2stack/School_District_Analysis/blob/main/resources/Updated%20Overall%20Passing%20Thomas.PNG).
     Original Overall Passing 
     ![Original OverallPassing Thomas](https://github.com/rick2stack/School_District_Analysis/blob/main/resources/Original%20Overall%20Passing%20Thomas.PNG)
 2. The updated values for Thomas High School had a trickeled down effect on  
