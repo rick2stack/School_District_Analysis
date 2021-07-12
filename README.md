@@ -24,9 +24,11 @@ Once the Thomas High School ninth graders scores were updated with "nan" placeho
 2. __School Summary:__ The more direct result of the updated scores were the % passing of reading and math for the school grades of Thomas High Schoool in the school summary, which resulted in an overall passing % of 65% to 91%. 
     1. Thomas High School Updated Overall Passing vs. Original Overall Passing in the school summary. 
     <br />
+
     **Updated Overall Passing**
     ![Updated Overall Passing Thomas](https://github.com/rick2stack/School_District_Analysis/blob/main/resources/Updated%20Overall%20Passing%20Thomas.PNG)
     <br />
+    
     **Original Overall Passing**
     ![Original Overall Passing Thomas](https://github.com/rick2stack/School_District_Analysis/blob/main/resources/Original%20Overall%20Passing%20Thomas.PNG)
     <br />
