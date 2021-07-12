@@ -1,5 +1,6 @@
 # School_District_Analysis
-##Overview of the school district analysis:
+
+## Overview of the school district analysis:
 For the school district analysis, we are asked to: 
 1. Update Existing scores for Thomas High School ninth graders. This is due to 
 scores being altered.  The updated scores for that Thomas High School ninth graders will be replaced with "nan". 
@@ -53,5 +54,5 @@ Once the Thomas High School ninth graders scores were updated with "nan" placeho
     **Updated Overall Passing Thomas School Type Summary**
     ![Updated Overall Passing Thomas School Type Summary](https://github.com/rick2stack/School_District_Analysis/blob/main/resources/Updated%20Overall%20Passing%20Thomas%20School%20Type%20Summary.PNG)
 
-##Summary: 
+## Summary: 
 In summary the updated scores for that Thomas High School ninth graders resulated in changes to the the performances rankings, school type metrics, spending metrics, and school metrics.  The most significant change  for Thomas High School in the school analysis was the ranking for best overall % passing rate.  Initially they were not on the top 5, but with the updated data, they ended up being ranked #2 overall.  In the school type summary, Thomas High Schooll bin (Charter) % pass rate for math, reading, and overall all increased.  Specifically the overall % pass rate for the Charter went from 87% to 90%.  In the spending per student summary, Thomas High Schooll bin ($630-644) % pass rate for math, reading, and overall all increased.  Specifically the overall % pass rate for the '$630-644' went from 56% to 63%.The more direct result of the updated scores were the % passing of reading and math for the school grades of Thomas High Schoool in the school summary, which resulted in an overall passing % of 65% to 91%. 
